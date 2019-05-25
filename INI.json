@@ -1,0 +1,7 @@
+{
+  "smtp_server": "smtp.gmail.com:587",
+  "smtp_user": "l_okara@hotmail.com",
+  "smtp_password": "marilu2307",
+  "use_tls": true,
+  "from_address": "l_okara@hotmail.com"
+}
